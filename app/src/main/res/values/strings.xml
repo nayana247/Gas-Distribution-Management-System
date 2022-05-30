@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Gasingo</string>
+    <string name="tv_1">Gasingo</string>
+    <string name="tv_2">Fast . Safe . Easy</string>
+    <string name="hint_1">Enter Your Email Address</string>
+    <string name="hint_2">Enter Your Password</string>
+    <string name="log_btn">Login</string>
+    <string name="link_1">Forgotten Password?</string>
+    <string name="stmt_1">Do not have an account?</string>
+    <string name="sign_link">Sign Up</string>
+
+    <string name="stmt_2">Gasingo Registration</string>
+    <string name="name_tv">Full Name</string>
+    <string name="nic_tv">NIC Number</string>
+    <string name="phone_tv">Contact Number</string>
+    <string name="email_tv">Email Address</string>
+    <string name="address_tv">Address</string>
+    <string name="pass_tv">Password</string>
+    <string name="compass_tv">RE-Password</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="stmt_3">Already have an account?</string>
+    <string name="stmt_4">Login</string>
+
+    <string name="smt_6">Find Your Nearest Gas Distributor</string>
+    <string name="stmt_5">Your Location:</string>
+    <string name="loc">Kadawatha</string>
+    <string name="stmt_6">5</string>
+    <string name="stmt_8">Distributors</string>
+
+    <string name="stmt_9">CARDHOLDER\'S NAME</string>
+    <string name="stmt_10">CARD NUMBER</string>
+    <string name="stmt_11">EXP DATE</string>
+    <string name="stmt_12">CVC/CVV2</string>
+    <string name="title">Payment</string>
+    <string name="btn_pay">Pay Now</string>
+    <string name="gas_1">Gas Cylinder</string>
+    <string name="gas_2">12.5KG Domestic Gas</string>
+    <string name="gas_3">L.P.G</string>
+    <string name="gas_4">RS: 5000</string>
+    <string name="gas_5">You can only buy one gas cylinder and have to return your old one.</string>
+
+    <string name="ref_title">Refund</string>
+    <string name="ref_payid">Payment ID</string>
+    <string name="ref_store">Store Name</string>
+    <string name="ref_qty">Quantity</string>
+    <string name="ref_price">Price</string>
+    <string name="qty_tv">1</string>
+    <string name="price_tv">RS: 5000</string>
+    <string name="btn_refund">Refund</string>
+    <string name="topic">Forogotten Password?</string>
+    <string name="email_add">Email Address</string>
+    <string name="new_pass">New Password</string>
+    <string name="fog_submit">Submit</string>
+    <string name="fog_cancel">Cancel</string>
+
+</resources>
